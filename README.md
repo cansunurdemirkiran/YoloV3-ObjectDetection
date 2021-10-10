@@ -2,11 +2,12 @@
 Real-time object detection project using **OpenCV** and **YOLOv3**.
 
 # Introduction
-Real-time object detection and classification using OpencV library and YOLOv3 pre-trained weights. It detects 90 different objects and gives the output in **Turkish**. It prints the object names and predicted confidence values for each object using your camera. 
+Real-time object detection and classification using OpencV library and YOLOv3 pre-trained weights. It detects 90 different objects and gives the output in *Turkish*. It prints the object names and predicted confidence values for each object using your cameragit . 
 
 # Installation
 You can clone the project.
-`git clone https://github.com/CansuNurDemirkiran/objetanima`
+
+* `git clone https://github.com/CansuNurDemirkiran/objetanima`
 
 # Usage
 - **Check Python Version**
@@ -25,11 +26,11 @@ You can clone the project.
 
 # Run the Project
 * `python objectdetection.py`
-git
+
 It will run your camera and detects the objects.
 
 # Contributing
-You can fork and clone the project in order to make contribution.
+You can fork and clone the project in order to make contributions.
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
