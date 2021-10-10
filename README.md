@@ -25,6 +25,7 @@ You can clone the project.
 
 # Run the Project
 * `python objectdetection.py`
+
 It will run your camera and detects the objects.
 
 # Contributing
