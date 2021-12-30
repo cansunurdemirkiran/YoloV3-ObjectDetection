@@ -2,7 +2,7 @@
 Real-time object detection project using **OpenCV** and **YOLOv3**.
 
 # Introduction
-Real-time object detection and classification using OpencV library and YOLOv3 pre-trained weights. It detects 90 different objects and gives the output in *Turkish*. It prints the object names and predicted confidence values for each object using your cameragit . 
+Real-time object detection and classification using OpencV library and YOLOv3 pre-trained weights. It detects 90 different objects and gives the output in *Turkish*. It prints the object names and predicted confidence values for each object using your camera. 
 
 # Installation
 - **Check Python Version**
